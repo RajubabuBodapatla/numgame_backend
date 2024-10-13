@@ -1,0 +1,33 @@
+[
+  {
+    "username": "raju",
+    "password": "raju123",
+    "email": "raju@gmail.com",
+    "score": 0,
+    "highestScore": 0
+  },
+  {
+    "id": "6ac81c3a-0bf9-4862-8576-7001493764d4",
+    "username": "raji",
+    "password": "raji123",
+    "email": "raji@gmail.com",
+    "score": 65,
+    "highestScore": 210
+  },
+  {
+    "id": "90aeb47c-fd54-40b9-8b43-5243551b270d",
+    "username": "bhargavi",
+    "password": "bhargavi123",
+    "email": "bhargavi@gmail.com",
+    "score": 155,
+    "highestScore": 155
+  },
+  {
+    "id": "3c6f538b-f53d-4711-aa3d-d7ac6ba00dab",
+    "username": "nikki",
+    "password": "nikki123",
+    "email": "nikki@gmail.com",
+    "score": 0,
+    "highestScore": 0
+  }
+]
