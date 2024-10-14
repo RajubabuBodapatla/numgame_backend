@@ -4,11 +4,6 @@ const cors = require('cors');
 const app = express();
 
 // Enable CORS for all routes
-app.use(cors({
-  origin: 'https://numgame-backend.onrender.com', // Allow requests from this origin
-  methods: ['GET', 'POST', 'PUT', 'DELETE','PATCH'], // Allowed HTTP methods
-  credentials: true, // Allow cookies and authentication headers
-}));
 
 app.use(express.json());  // Enable JSON parsing
 
